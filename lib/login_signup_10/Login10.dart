@@ -13,6 +13,15 @@ class Login010 extends StatefulWidget {
 class _Login010State extends State<Login010> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: Theme.of(context).colorScheme.inversePrimary,
+        title: Text(widget.title),
+      ),
+      body: SafeArea(
+        child: SingleChildScrollView(
+        ),
+      ),
+    );
   }
 }
