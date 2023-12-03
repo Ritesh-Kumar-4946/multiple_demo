@@ -1,6 +1,6 @@
 # punon_demo
 
-A new Flutter project that demostrate best practices
+A new Flutter project that demonstrate best practices
 
 ## Getting Started
 
