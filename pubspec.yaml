@@ -40,6 +40,7 @@ dependencies:
   flutter_svg: ^2.0.9
   lottie: ^2.7.0
   font_awesome_flutter: ^10.6.0
+  google_fonts: ^6.1.0
 
 dev_dependencies:
   flutter_test:
@@ -82,6 +83,16 @@ flutter:
     - assets/login_signup_08/
     - assets/login_signup_09/
     - assets/login_signup_10/
+    - assets/login_signup_11/
+    - assets/login_signup_12/
+    - assets/login_signup_13/
+    - assets/login_signup_14/
+    - assets/login_signup_15/
+    - assets/login_signup_16/
+    - assets/login_signup_17/
+    - assets/login_signup_18/
+    - assets/login_signup_19/
+    - assets/login_signup_20/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
