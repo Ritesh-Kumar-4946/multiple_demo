@@ -12,6 +12,7 @@ import 'package:punon_demo/login_signup_09/login_09_home_page.dart';
 import 'package:punon_demo/login_signup_10/login_10.dart';
 import 'package:punon_demo/login_signup_10/screens/login_ui.dart';
 import 'package:punon_demo/login_signup_11/login_11.dart';
+import 'package:punon_demo/login_signup_12/login_12.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -42,8 +43,9 @@ class MyApp extends StatelessWidget {
       // home: const Login07(title: 'Login07'),
       // home: const Login08(title: 'Login08'),
       // home: const Login09HomePage(title: 'HomePage'),
-      home: const Login11(title: 'Login11'),
+      // home: const Login11(title: 'Login11'),
       // home: const LoginPage(),
+      home: const Login12(title: 'Login12'),
     );
   }
 }
